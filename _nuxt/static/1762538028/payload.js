@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{favicon:"https:\u002F\u002Fcontent.stinkfilms.com\u002Fwp-content\u002Fuploads\u002F2021\u002F04\u002Ffavicon.ico"}],fetch:{},mutations:[["setCurrentRegionUrl","\u002Fundefined"]]});
